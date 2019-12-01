@@ -1,0 +1,21 @@
+header {
+    height: 80px;
+    font-size: 80px;
+    grid-auto-columns: inherit;
+    background-color: rgba(245, 244, 240, 0.61);
+}
+.glasses {
+    height: 100%;
+    float: right;
+}
+.beer {
+    width: 110%;
+    height: 110%;
+    opacity: 75%;
+}
+
+footer {
+    background-color: rgba(245, 244, 240, 0.61);
+    padding: 0;
+    margin: 0;
+}
