@@ -2,9 +2,9 @@
 User inputs general location (state)
 Returns list of Breweries
 Returns their city and street address
-Returns website for breweries
+Returns website for breweries with hyperlinks
 ##LiveLink: 
-http://127.0.0.1:5500/index.html?
+https://frank-rauen.github.io/
 
 ##Tech Used:
 HTML
