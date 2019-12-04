@@ -16,7 +16,7 @@ $('form').on('submit', (event) =>{
             console.log($('.brewery-list'));
             $('.location-information').append(`<dd> ${data[i].street} </dd>`);
             $('.city').append(`<dd> ${data[i].city} </dd>`);
-            $('.website').append(`<dd><a href = "${data[i].website_url}">${data[i].website_url}</a></dd>`);
+            $('.website').append(`<dd><a href = "${data[i].website_url}" target="_blank">${data[i].website_url}</a></dd>`);
             }
 
         }
