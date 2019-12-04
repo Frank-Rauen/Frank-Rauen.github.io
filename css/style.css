@@ -20,3 +20,16 @@ body {
     height: auto;
     width: auto;
 }
+
+dt {
+    font-size: 25px;
+    color: maroon;
+    float: left;
+}
+
+div {
+    font-size: 15px;
+    float: left;
+    margin: auto;
+    padding: 5px
+}
